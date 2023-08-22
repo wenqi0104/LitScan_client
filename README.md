@@ -4,7 +4,7 @@ Welcome to LitScan-Automated Literature Summarization Tool! This tool assists in
 
 ## Application Execution
 
-   Double-click the `LitScan-Automated Literature Summarization Tool_V2.exe` file to launch the application.
+   Double-click the `LitScan-Automated Literature Summarization Tool.exe` file to launch the application.
 
 
 ## Usage Steps
